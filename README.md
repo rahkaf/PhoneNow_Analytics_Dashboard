@@ -43,7 +43,7 @@ This dashboard integrates rich visual elements, such as:
 <details>
   <summary>Click to expand screenshots</summary>
 
-  ![Welcome Screen](path/to/welcome_screen.png)
+  ![Welcome Screen](Screenshot 2025-01-21 205934.png)
   ![Churn Dashboard](path/to/churn_dashboard.png)
   ![Customer Risk Analysis](path/to/risk_analysis.png)
 
