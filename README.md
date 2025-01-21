@@ -43,9 +43,9 @@ This dashboard integrates rich visual elements, such as:
 <details>
   <summary>Click to expand screenshots</summary>
 
-  ![Welcome Screen](Screenshot 2025-01-21 205934.png)
-  ![Churn Dashboard](path/to/churn_dashboard.png)
-  ![Customer Risk Analysis](path/to/risk_analysis.png)
+  ![Welcome Screen](https://github.com/rahkaf/PhoneNow_Analytics_Dashboard/blob/main/Screenshot%202025-01-21%20205934.png)
+  ![Churn Dashboard](https://github.com/rahkaf/PhoneNow_Analytics_Dashboard/blob/main/Screenshot%202025-01-21%20205943.png)
+  ![Customer Risk Analysis](https://github.com/rahkaf/PhoneNow_Analytics_Dashboard/blob/main/Screenshot%202025-01-21%20205953.png)
 
 </details>
 
